@@ -1,2 +1,2 @@
 #!/bin/bash
-readlink -f /tmp/correction/8877990898344434965862795273086980789649_5/205/133725/0x00-shell_basics/
+readlink -f ./0x00-shell_basics 
