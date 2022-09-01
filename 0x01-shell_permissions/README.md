@@ -11,3 +11,5 @@
 9. Task 8 - James Bond
 10. Task 9 - John Doe
 11. Task 10 - Look in the mirror
+12. Task 11 - Directories
+13. Task 12 - More Directories
