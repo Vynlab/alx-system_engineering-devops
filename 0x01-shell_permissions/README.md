@@ -7,3 +7,4 @@
 5. Task 4 - Empty!
 6. Task 5 - Execute
 7. Task 6 - Multiple permissions
+8. Task 7 - Everybody!
