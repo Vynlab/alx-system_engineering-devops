@@ -9,4 +9,5 @@
 6. Line #2
 7. 
 8. Save current state of directory
+9. Duplicate last line
 
