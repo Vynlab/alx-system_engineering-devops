@@ -10,4 +10,7 @@
 7. 
 8. Save current state of directory
 9. Duplicate last line
+10. 
+11. 
+12. What’s new
 
