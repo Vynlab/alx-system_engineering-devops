@@ -13,4 +13,17 @@
 10. 
 11. 
 12. What’s new
+13. Being unique is better than being perfect
+13. Being unique is better than being perfect
+13. Being unique is better than being perfect
+13. Being unique is better than being perfect
+13. Being unique is better than being perfect
+13. Being unique is better than being perfect
+13. Being unique is better than being perfect
+13. Being unique is better than being perfect
+13. Being unique is better than being perfect
+13. Being unique is better than being perfect
+13. Being unique is better than being perfect
+13. Being unique is better than being perfect
+13. Being unique is better than being perfect
 
